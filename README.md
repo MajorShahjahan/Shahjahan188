@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shah Jhan
-- 👀 I’m interested in pronlem solving,I really like to build apps for the real world to give solutions for every problem
+- 👀 I’m interested in problem solving,I really like to build apps for the real world to give solutions for every problem
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Android app development projects
 - 📫 You can reach me by mail "major.shahjahan188@gmail.com"
